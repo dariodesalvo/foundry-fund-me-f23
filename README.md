@@ -1,3 +1,10 @@
+## FundMe
+
+**This is a section of the Cyfrin Solidity Course.**
+
+It's amazing 💪, and you can do it in 
+https://updraft.cyfrin.io/courses/foundry
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
